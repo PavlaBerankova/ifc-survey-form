@@ -5,8 +5,22 @@ div {
     width: 1000px;
 }
 body {
-    width: 80%;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    /*background-image:  url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);*/
+    
+}
+
+header {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+}
+
+main {
     background-color: #2A2A49;
     margin-left: auto;
     margin-right: auto;
+    padding: 30px;
 }
